@@ -1,0 +1,23 @@
+{
+  "name": "hellocucumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cucumber": "^5.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diemath/cucumber-tests.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Diemath/cucumber-tests/issues"
+  },
+  "homepage": "https://github.com/Diemath/cucumber-tests#readme"
+}
